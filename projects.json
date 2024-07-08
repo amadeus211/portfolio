@@ -1,0 +1,25 @@
+[
+    {
+        "name" : "Weather app with interactive map",
+        "git": "https://github.com/amadeus211/react-weather-app-with-interactive-map",
+        "link": "https://celebrated-hummingbird-05873d.netlify.app/",
+        "technologies": "ReactJS, TailwindCSS, REST API, JavaScript",
+        "image": "WeatherApp"
+    },
+    {
+        "name" : "Color picker app",
+        "git": "https://github.com/amadeus211/color-picker-react",
+        "link": "https://animated-zabaione-ea9c76.netlify.app/",
+        "technologies": "ReactJS, TailwindCSS, JavaScript",
+        "image": "ColorPickerApp"
+
+    }, 
+    {
+        "name" : "ToDo client app",
+        "git": "https://github.com/amadeus211/todo-client-app-next-js",
+        "link": "https://todo-client-app-next-js.vercel.app/",
+        "technologies": " TailwindCSS, JavaScript, NextJS, MongoDB, REST API",
+        "image": "ToDoApp"
+
+    }
+]
