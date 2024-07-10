@@ -9,7 +9,7 @@
     {
         "name" : "Color picker app",
         "git": "https://github.com/amadeus211/color-picker-react",
-        "link": "https://animated-zabaione-ea9c76.netlify.app/",
+        "link": "https://color-picker-react-eight.vercel.app/",
         "technologies": "ReactJS, TailwindCSS, JavaScript",
         "image": "ColorPickerApp"
 
