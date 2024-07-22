@@ -1,8 +1,8 @@
 [
     {
         "name" : "Weather app with interactive map",
-        "git": "https://github.com/amadeus211/react-weather-app-with-interactive-map",
-        "link": "https://celebrated-hummingbird-05873d.netlify.app/",
+        "git": "https://github.com/amadeus211/react-weather-app-interactive-map",
+        "link": "https://react-weather-app-interactive-map.vercel.app/",
         "technologies": "ReactJS, TailwindCSS, REST API, JavaScript",
         "image": "WeatherApp"
     },
