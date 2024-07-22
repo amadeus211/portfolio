@@ -17,7 +17,7 @@ import { blue } from "@mui/material/colors";
 import UK from "../images/united-kingdom.png";
 import Ukraine from "../images/ukraine.png";
 
-const languages = ["Ukrainian", "English"];
+const languages = ["Українська", "English"];
 
 const icons = {
   Ukrainian: Ukraine,

@@ -45,10 +45,10 @@ export default function Projects() {
                   window.open(project.git, "_blank");
                 }}
               >
-                <img src={GitHubBlack} alt="GitHub" className="w-6 h-6 " />
+                <img src={GitHubBlack} alt="GitHub" className="w-6 h-6 max-w-6 max-h-6" />
               </button>
             </div>
-            <div className="flex flex-row items-center justify-between px-5 pb-6 font-bold max-w-sm text-brown tracking-wider ">
+            <div className="flex flex-row items-center justify-between px-5 pb-6 font-bold max-w-md break-words text-brown tracking-wider w-full ">
               <p className="break-all">Technologies: {project.technologies}</p>
             </div>
           </div>
