@@ -5,6 +5,9 @@ import ToDoApp from "../images/ToDo-app.png";
 import GitHubBlack from "../images/github-mark.png";
 import ComingSoon from "../images/coming-soon.png";
 import ProjectsData from "../../projects.json";
+import Exchange from "../images/Exchange.png";
+
+
 
 export default function Projects() {
   const outputProjects = ProjectsData;
@@ -13,6 +16,7 @@ export default function Projects() {
     WeatherApp: WeatherApp,
     ColorPickerApp: ColorPickerApp,
     ToDoApp: ToDoApp,
+    Exchange: Exchange
   };
 
   useEffect(() => {

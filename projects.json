@@ -3,7 +3,7 @@
         "name" : "Weather app with interactive map",
         "git": "https://github.com/amadeus211/react-weather-app-interactive-map",
         "link": "https://react-weather-app-interactive-map.vercel.app/",
-        "technologies": "ReactJS, TailwindCSS, REST API, JavaScript",
+        "technologies": "ReactJS, TailwindCSS, RESTful API, JavaScript",
         "image": "WeatherApp"
     },
     {
@@ -18,8 +18,16 @@
         "name" : "ToDo client app",
         "git": "https://github.com/amadeus211/todo-client-app-next-js",
         "link": "https://todo-client-app-next-js.vercel.app/",
-        "technologies": " TailwindCSS, JavaScript, NextJS, MongoDB, REST API",
+        "technologies": " TailwindCSS, JavaScript, NextJS, MongoDB, RESTful API",
         "image": "ToDoApp"
+
+    },
+    {
+        "name" : "Currency exchange app",
+        "git": "https://github.com/amadeus211/currency_exchange-next-app",
+        "link": "https://currency-exchange-next-app.vercel.app/",
+        "technologies": "TailwindCSS, JavaScript, NextJS, RESTful API",
+        "image": "Exchange"
 
     }
 ]

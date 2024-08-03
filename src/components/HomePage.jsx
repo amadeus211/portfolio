@@ -38,7 +38,7 @@ const HomePage = () => {
         <p className="text-[40px] font-bold text-red">Technologies</p>
         <div>
           <p className="sm:text-[25px] text-[18px] text-black tracking-wider">
-            JavaSript, CSS, HTML5, TailwindCSS, RestAPI ,
+            JavaSript, CSS, HTML5, TailwindCSS, RESTful API ,
           </p>
           <p className="sm:text-[25px] text-[18px] text-black tracking-wider">
             React.JS, Responsive Web Design, NPM, Node.JS
